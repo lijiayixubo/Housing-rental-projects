@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "密码登录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

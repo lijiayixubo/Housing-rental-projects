@@ -1,0 +1,1 @@
+@import "../../common/main.wxss";page{background-color:#fff}.wrap.data-v-53e3bfd0{padding:30rpx}.slot-btn.data-v-53e3bfd0{width:690rpx;height:690rpx;display:flex;justify-content:center;align-items:center;background:#f4f5f6;border-radius:10rpx}.slot-btn__hover.data-v-53e3bfd0{background-color:#ebecee}

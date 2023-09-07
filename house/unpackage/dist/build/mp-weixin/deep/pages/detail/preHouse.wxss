@@ -1,0 +1,1 @@
+@import "../../common/main.wxss";page{background-color:#fff}.wrap.data-v-31c8d3c9{padding:30rpx}.bottom-btn.data-v-31c8d3c9{position:fixed;bottom:8rpx;width:100%;padding:30rpx;border-top:1rpx solid #eee;background-color:#fff}

@@ -1,0 +1,321 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					"pullToRefresh": {
+						"support": true,
+						"color": "#2979ff", //小圈圈的颜色
+						"style": "circle" //小圈圈的样式
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/center/center",
+			"style": {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+				"navigationBarTitleText": "我的"
+			}
+		}
+	    
+        
+        
+		
+        
+		
+        
+    ],
+	"subPackages": [
+		{
+			"root": "pages-module",
+			"pages":[
+				{
+					"path": "chooseAddress/index",
+					"style": {
+						"navigationBarBackgroundColor":"#f8f8f8",
+						"navigationBarTitleText":"地图",
+						"backgroundColorTop": "#f8f8f8",
+						"backgroundColorBottom":"#ffffff"
+					}
+				},
+				{
+				    "path" : "chooseAddress/search",
+				    "style" : {
+						"navigationBarTitleText":"地址搜索"
+					}
+				}
+				//,
+				// {
+				//     "path" : "location/location",
+				//     "style": {
+				//     	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				//     	"navigationBarTitleText": "选择城市"
+				//     }
+				    
+				// }
+				,{
+				    "path" : "notice/notice",
+				    "style" :                                                                                    
+				    {
+						"navigationStyle": "custom" ,// 隐藏系统导航栏
+						"navigationBarTitleText": "通知公告"
+				    }
+				    
+				}
+				,
+				{
+				    "path" : "content/content",
+				    "style": {
+				    	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				    	"navigationBarTitleText": "资讯"
+				    }
+				}
+				,
+				{
+					"path": "find/find",
+					"style":{
+						"navigationStyle": "custom" // 隐藏系统导航栏
+					}
+				},
+				{
+				    "path" : "center/heart",
+				    "style" :                                                                                    
+				    {
+						"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "收藏",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "center/history",
+				    "style" :                                                                                    
+				    {
+						"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "预约管理",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "center/agreement",
+				    "style" :                                                                                    
+				    {
+				    	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "租房合同",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "center/water",
+				    "style" :                                                                                    
+				    {
+				    	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "水费缴纳",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "center/electric",
+				    "style" :                                                                                    
+				    {
+				    	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "电费缴纳",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				}
+				,{
+				    "path" : "center/rent",
+				    "style" :                                                                                    
+				    {
+				    	"navigationStyle": "custom" ,// 隐藏系统导航栏
+				        "navigationBarTitleText": "租金缴纳",
+				        "enablePullDownRefresh": false
+				    }
+				    
+				},{
+            "path" : "detail/detail",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "房源详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "detail/addHouse",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "房源",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "detail/preHouse",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "预增房源",
+                "enablePullDownRefresh": false
+            }
+        },{
+            "path" : "profile/setting",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+        },
+		{
+		    "path" : "profile/profile",
+		    "style" :                                                                                    
+		    {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+		        "enablePullDownRefresh": false
+		    }
+		}
+        ,{
+            "path" : "profile/password",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "修改密码",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+            "path" : "profile/avatar",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "设置头像",
+                "enablePullDownRefresh": false
+            }
+        },{
+            "path" : "search/search",
+            "style" :                                                                                    
+            {
+               "navigationStyle": "custom" ,// 隐藏系统导航栏
+                "enablePullDownRefresh": false
+				
+            }
+            
+        },
+        {
+            "path" : "search/searchList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "房源列表",
+				"enablePullDownRefresh": true,
+				// "navigationStyle": "custom" ,// 隐藏系统导航栏
+				"app-plus": {
+					"pullToRefresh": {
+						"support": true,
+						"color": "#2979ff", //小圈圈的颜色
+						"style": "circle" //小圈圈的样式
+					}
+				}
+            }
+            
+        },{
+		    "path" : "webview/webview",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "岚寓"
+		    }
+		},{
+            "path" : "login/wxlogin",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+                "navigationBarTitleText": "密码登录",
+                "enablePullDownRefresh": false
+            }
+        }
+		,{
+		    "path" : "login/problem",
+		    "style" :                                                                                    
+		    {
+				"navigationStyle": "custom" ,// 隐藏系统导航栏
+		        "navigationBarTitleText": "常见问题",
+		        "enablePullDownRefresh": false
+		    }
+		}
+			    ,{
+                    "path" : "center/authreal",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "center/isreal",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "实名认证",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "book/book",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "World",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#ffffff"
+	},
+	"tabBar": {
+	    "color": "#909399",
+	    "selectedColor": "#2979ff",
+	    // "borderStyle": "#909399",
+		"borderStyle": "white",
+	    "backgroundColor": "#ffffff",
+	    "list": [{
+	        "pagePath": "pages/index/index",
+	        "iconPath": "static/index.png",
+	        "selectedIconPath": "static/index-selected.png",
+	        "text": "首页"
+	    },{
+	        "pagePath": "pages/center/center",
+	        "iconPath": "static/center.png",
+	        "selectedIconPath": "static/center-selected.png",
+	        "text": "我的"
+	    }]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

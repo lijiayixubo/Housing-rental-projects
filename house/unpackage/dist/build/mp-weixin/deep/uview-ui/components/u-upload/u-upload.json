@@ -1,0 +1,10 @@
+{
+  "componentGenerics": {
+    "scoped-slots-file": true
+  },
+  "component": true,
+  "usingComponents": {
+    "u-icon": "../u-icon/u-icon",
+    "u-line-progress": "../u-line-progress/u-line-progress"
+  }
+}

@@ -1,0 +1,7 @@
+.book-form {
+  padding: 30rpx;
+}
+.submit-btn {
+  margin-top: 20rpx;
+}
+
