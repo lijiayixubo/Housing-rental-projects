@@ -36,7 +36,7 @@
 
 ####  移动端截图：
 
-<img src="https://img1.imgtp.com/2023/09/09/oLc288PC.png" alt="首页" width="40%" height="650">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/ijAzuoMx.png" alt="首页" width="40%" height="650">
+<img src="https://img1.imgtp.com/2023/09/09/oLc288PC.png" alt="首页" width="30%" height="600">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/ijAzuoMx.png" alt="首页" width="30%" height="600">
 
 
 
