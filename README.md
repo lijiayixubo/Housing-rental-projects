@@ -18,4 +18,4 @@
 ## 项目运行截图
 ####  前端截图：
 
-<img src="https://img1.imgtp.com/2023/09/09/oUe8OPTQ.png" alt="首页" width="50%" height="320">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/LUvld6ft.png" alt="首页" width="50%" height="320">
+<img src="https://img1.imgtp.com/2023/09/09/oUe8OPTQ.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/LUvld6ft.png" alt="首页" width="47%" height="290">
