@@ -16,7 +16,7 @@
 - 支持加载动态权限菜单，控制菜单权限，按钮权限，数据权限。
   
 ## 项目运行截图
-####  前端截图：
+####  前后端截图：
 1. ##### 管理员登录:
 
 <img src="https://img1.imgtp.com/2023/09/09/oUe8OPTQ.png" alt="首页" width="47%" height="230">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/ZfUMMmww.png" alt="首页" width="47%" height="230">
@@ -33,6 +33,9 @@
 <img src="https://img1.imgtp.com/2023/09/09/RzRU6Gug.png" alt="首页" width="50%" height="290"><br/><br/>
 <img src="https://img1.imgtp.com/2023/09/09/NHCtB7aJ.png" alt="首页" width="50%" height="290"><br/><br/>
 <img src="https://img1.imgtp.com/2023/09/09/62mPhrPY.png" alt="首页" width="50%" height="290">
+
+####  移动端截图：
+
 
 
 
