@@ -36,6 +36,8 @@
 
 ####  移动端截图：
 
+<img src="https://img1.imgtp.com/2023/09/09/oLc288PC.png" alt="首页" width="45%" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/ijAzuoMx.png" alt="首页" width="45%" height="700">
+
 
 
 
