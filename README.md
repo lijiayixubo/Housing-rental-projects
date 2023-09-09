@@ -12,7 +12,7 @@
 - 使用Vxe-table实现单行编辑，即时保存效果。
 - 使用ECharts,UCharts实现数据可视化图表。
 - 使用IReport实现企业级Web报表。
-- 使用kkFileView实现在线预览，支持doc,docx,Excel,pdf,txt,zip,rar,图片等。
+- 使用FileView实现在线预览，支持doc,docx,Excel,pdf,txt,zip,rar,图片等。
 - 支持加载动态权限菜单，控制菜单权限，按钮权限，数据权限。
   
 ## 项目运行截图
@@ -26,7 +26,14 @@
 <img src="https://img1.imgtp.com/2023/09/09/zhsAV646.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/yR708XE2.png" alt="首页" width="47%" height="290">
 <img src="https://img1.imgtp.com/2023/09/09/dWgAoVLa.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/Kvwi9oen.png" alt="首页" width="47%" height="290">
 <img src="https://img1.imgtp.com/2023/09/09/10sbtzmJ.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/TwhuBWqs.png" alt="首页" width="47%" height="290">
-<img src="https://img1.imgtp.com/2023/09/09/JDHAsuNy.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/EqKQ5jj4.png" alt="首页" width="47%" height="290">
+<img src="https://img1.imgtp.com/2023/09/09/RzRU6Gug.png" alt="首页" width="47%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/EqKQ5jj4.png" alt="首页" width="47%" height="290">
+
+2. ##### 用户登录:
+ 
+<img src="https://img1.imgtp.com/2023/09/09/JDHAsuNy.png" alt="首页" width="50%" height="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/NHCtB7aJ.png" alt="首页" width="50%" height="290">
+<img src="https://img1.imgtp.com/2023/09/09/62mPhrPY.png" alt="首页" width="50%" height="290">
+
+ 
 
 
 
