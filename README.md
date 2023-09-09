@@ -1,5 +1,5 @@
 # 房屋租赁平台
-使用springboot+mybatis+vue+uniapp+ElementUI的房屋租赁项目
+使用Springboot+Mybatis+Vue+Uniapp+ElementUI的房屋租赁项目
 
 ## 项目介绍
 - 移动端采用Vue、Uniapp、Uview。
@@ -17,3 +17,5 @@
   
 ## 项目运行截图
 ####  前端截图：
+
+<img src="https://img1.imgtp.com/2023/09/09/oUe8OPTQ.png" alt="首页" width="45%" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/LUvld6ft.png" alt="首页" width="45%" height="300">
