@@ -50,7 +50,7 @@
 
 ### 视频
 
-<iframe src="https://gitee.com/lijiayixubo/video-storage/blob/master/MP4/%E6%88%BF%E5%B1%8B%E7%A7%9F%E8%B5%81.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+(https://gitee.com/lijiayixubo/lease-of-houses/blob/master/MP4/%E6%88%BF%E5%B1%8B%E7%A7%9F%E8%B5%81.mp4)
  
 
 
