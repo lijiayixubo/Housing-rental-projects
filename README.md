@@ -48,9 +48,7 @@
 <img src="https://img1.imgtp.com/2023/09/09/uL7Nde7v.png" alt="首页" width="35%" height="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img1.imgtp.com/2023/09/09/0gattlMV.png" alt="首页" width="35%" height="500"><br/><br/>
 <img src="https://img1.imgtp.com/2023/09/09/GzCNhjVz.png" alt="首页" width="35%" height="500">
 
-### 视频
 
-(https://gitee.com/lijiayixubo/lease-of-houses/blob/master/MP4/%E6%88%BF%E5%B1%8B%E7%A7%9F%E8%B5%81.mp4)
  
 
 
